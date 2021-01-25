@@ -8,7 +8,6 @@ var collection = {
   2468: {
     albumTitle: '1999',
     artist: 'Prince',
-    artist: 'Prince',
     tracks: ['1999', 'Little Red Corvette']
   },
   1245: {
